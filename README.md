@@ -1,4 +1,6 @@
-
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="./assets/banner.gif" />
+</a>
 #
 <h1 align="center">Greetings! 👋 Delighted to meet you,<br> This is Parvin Akter</h1>
 <h3 align="center">An impassioned Web Developer eager to make a mark in the tech world </h3>
