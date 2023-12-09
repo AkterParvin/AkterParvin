@@ -1,3 +1,6 @@
+<a href="https://www.facebook.com/mirhussainmurtaza/">
+<img src="./assets/banner.gif" />
+</a>
 
 #
 <h1 align="center">Greetings! 👋 Delighted to meet you,<br> This is Parvin Akter</h1>
@@ -33,85 +36,28 @@
 
 <br>
 
-<p align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="url(#paint0_linear_2_119)" fill-rule="evenodd" d="M83 110C88.9991 86.0009 104.001 74 128 74C164 74 168.5 101 186.5 105.5C198.501 108.501 209 104.001 218 92C212.001 115.999 196.999 128 173 128C137 128 132.5 101 114.5 96.5C102.499 93.4991 92 97.9991 83 110ZM38 164C43.9991 140.001 59.0009 128 83 128C119 128 123.5 155 141.5 159.5C153.501 162.501 164 158.001 173 146C167.001 169.999 151.999 182 128 182C92 182 87.5 155 69.5 150.5C57.4991 147.499 47 151.999 38 164Z" clip-rule="evenodd"/><defs><linearGradient id="paint0_linear_2_119" x1="86.5" x2="163.5" y1="74" y2="185.5" gradientUnits="userSpaceOnUse"><stop stop-color="#32B1C1"/><stop offset="1" stop-color="#14C6B7"/></linearGradient></defs></svg>
 
 
-<br>
-<h1 align="left">Languages and Tools:</h3>
 <!-- First row of icons -->
 <p align="center">
 
 
 
-
-
-
-
-# SkyTrip
-## Tour Package Selling Web Application
-
-It is basically a tour package selling web application ,where tourists can book tour packages and pay if the tour guide accept the package 📦 
-
-
-## Features
-
-- User Management: Secure and comprehensive user registration, authentication, and management.
-- Tour Package Management: Admin-controlled tour package creation, editing, and removal, and user wishlist feature.
-- Payment Gateway Integration: Streamlined payment processing through Stripe for secure tour bookings.
-- Community Engagement Platform: Engaging user tour experience sharing, social media integration, and interactive confetti animations.
-- Robust Infrastructure: Efficient MongoDB database, user-friendly pagination, and secure admin access control.
-
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Tech Stack
-
-**Client:** JavaScript, React, TailwindCSS, MaterialUI,Firebase, 
-
-**Server:** Node, Express, MongoDB
-
-
-
-
-
-## Live Link
-https://skytrip-byparvin.web.app
-
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px">
-</a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="80" height="80" style="background-color: white; border-radius: 5px; margin-right: 5px; padding:5px">
-  </a>
-</p>
-
-
-
-
+<br>
+<h1 align="left" style="background-color: #ca6702; border-radius: 5px; margin: 0px ,25px; padding: 20px;  ">Languages and Tools:</h3>
+<div style="background-color: #001219; border-radius: 5px; padding: 20px;  ">
 <p align="center">
-
-<a href="https://expressjs.com" 
-  target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="80" height="80" style="background-color: yellow; border-radius: 5px; margin: 5px; padding-left:10px;padding-right:10px ;padding-top:5px ;padding-bottom:5px"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80" style="background-color: white; border-radius: 5px; margin: 5px; padding:5px"/> </a>   
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui" alt="My Skills" width="590" height="150" style=" border-radius: 5px; margin: 20px, 5px; ">
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,mongodb,express" alt="My Skills" width="590" height="150" style=" border-radius: 5px; margin: 20px, 5px; ">
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,figma,vite" alt="My Skills"width="520" height="150" style=" border-radius: 5px; margin: 20px ,5px; ">
+</a>
 </p>
-
+</div>
 <!-- 
 <p align="center"> 
 
@@ -127,11 +73,14 @@ https://skytrip-byparvin.web.app
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="display: block;">
 </a>
 </p>
-<p align="center">
+
+<p align="left">
   -->
  <br> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akterparvin&show_icons=true&locale=en&layout=compact" alt="akterparvin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkterParvin&show_icons=true&locale=en&layout=compact" alt="akterparvin" /></p>
 
  <br> <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akterparvin&show_icons=true&locale=en" alt="akterparvin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkterParvin&show_icons=true&locale=en" alt="akterparvin" /></p>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkterParvin&theme=rising-sun&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
