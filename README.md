@@ -70,7 +70,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkterParvin&show_icons=true&locale=en&layout=compact" alt="akterparvin" width="350" height="140"/></p>
 <p><img align="right" src="./assets/giphy[1] (5).gif" alt="akterparvin"  width="140" height="140"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkterParvin&show_icons=true&locale=en" alt="akterparvin" /></p>
-<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/AkterParvin/repos?time_range=one_year&theme=dark" alt="akterparvin" /></p><p><img align="right" src="./assets/giphy[1] (6).gif" alt="akterparvin" width="150" height="180"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkterParvin&show_icons=true&locale=en" alt="akterparvin" /></p><p><img align="right" src="./assets/giphy[1] (9).gif" alt="akterparvin" width="150" height="180"/></p>
+
+<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/AkterParvin/repos?time_range=one_year&theme=dark" alt="akterparvin" /></p><p><img align="center" src="./assets/giphy[1] (6).gif" alt="akterparvin" width="150" height="180"/></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkterParvin&theme=monokai&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
