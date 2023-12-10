@@ -1,8 +1,14 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="./assets/banner.gif" />
 </a>
+<<<<<<< HEAD
 <br><br><hr>
 <h1 align="center">Greetings! 👋 Delighted to meet you,<br> This is PARVIN AKTER</h1>
+=======
+
+#
+<h1 align="center">Greetings! 👋 Delighted to meet you,<br> This is Parvin Akter</h1>
+>>>>>>> a6176d5b57411452d8637320cae784cf30aecdc6
 <h3 align="center">An impassioned Web Developer eager to make a mark in the tech world </h3>
 
 
