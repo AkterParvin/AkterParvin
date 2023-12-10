@@ -1,12 +1,8 @@
 <a href="https://www.facebook.com/mirhussainmurtaza/">
 <img src="./assets/banner.gif" />
 </a>
-<<<<<<< HEAD
-
-=======
->>>>>>> 67f36edf80e28dbfaf723432f3ec6824f244f596
-#
-<h1 align="center">Greetings! 👋 Delighted to meet you,<br> This is Parvin Akter</h1>
+<br><br><hr>
+<h1 align="center">Greetings! 👋 Delighted to meet you,<br> This is PARVIN AKTER</h1>
 <h3 align="center">An impassioned Web Developer eager to make a mark in the tech world </h3>
 
 
@@ -27,7 +23,8 @@
 - ⚡ Fun fact **I've mastered the art of juggling—both code and actual balls!**
 
 <br>
-<h1 align="left">Connect with me:</h3>
+<hr>
+<h1 align="left">🤝🏻 Connect with me:  </h1> <br><br><hr>
 <p align="center">
 <a href="https://dev.to/akter.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akter.p" height="50" width="50" /></a>
 &nbsp; &nbsp;
@@ -37,17 +34,15 @@
 <a href="https://fb.com/eloquent.akter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eloquent.akter" height="50" width="50" /></a>&nbsp; &nbsp;
 </p>
 
-<br>
+
 
 
 
 <!-- First row of icons -->
 <p align="center">
 
-
-
-<br>
-<h1 align="left" style="background-color: #ca6702; border-radius: 5px; margin: 0px ,25px; padding: 20px;  ">Languages and Tools:</h3>
+<br><hr>
+<h1 align="left" style="background-color: #ca6702; border-radius: 5px; margin: 0px ,25px; padding: 20px;  ">👨🏻‍💻 Languages and Tools:</h1>
 <div style="background-color: #001219; border-radius: 5px; padding: 20px;  ">
 <p align="center">
 <a href="https://skillicons.dev">
@@ -61,29 +56,19 @@
 </a>
 </p>
 </div>
-<!-- 
-<p align="center"> 
 
 
 
 
-
-
-
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /> </a>
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" style="display: block;">
-</a>
-</p>
 
 <p align="left">
-  -->
- <br> <br>
+  <hr>
+<h1 align="left">📊 Present States:  </h1> <br><br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkterParvin&show_icons=true&locale=en&layout=compact" alt="akterparvin" /></p>
-
- <br> <br>
+<p><img align="right" src="./assets/giphy[1] (5).gif" alt="akterparvin"  width="140" height="140"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkterParvin&show_icons=true&locale=en" alt="akterparvin" /></p>
+<p>&nbsp;<img align="center" src="https://api.githubtrends.io/user/svg/AkterParvin/repos?time_range=one_year&theme=dark" alt="akterparvin" /></p><p><img align="right" src="./assets/giphy[1] (6).gif" alt="akterparvin" width="150" height="190"/></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkterParvin&theme=rising-sun&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkterParvin&theme=monokai&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" /></a>
